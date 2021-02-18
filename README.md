@@ -38,12 +38,9 @@ that affect this variable and its different visualizations depicting the relatio
 other variables and the APR.
 
 Resources:
-https://github.com/justinolgui/Communicate-Data-Findings/blob/master/Prosper_Loan_D
-ata_Analysis.ipynb
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.pie.
-html
-https://stackoverflow.com/questions/55729588/how-to-fix-the-truth-value-of-a-series-is-a
-mbiguous-use-a-empty-a-bool-a-i
+https://github.com/justinolgui/Communicate-Data-Findings/blob/master/Prosper_Loan_Data_Analysis.ipynb
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.pie.html
+https://stackoverflow.com/questions/55729588/how-to-fix-the-truth-value-of-a-series-is-ambiguous-use-a-empty-a-bool-a-i
 https://stackoverflow.com/questions/50319614/count-plot-with-stacked-bars-per-hue
 https://stackoverflow.com/search?q=value+error+max+arg+is+an+empty+sequence
 https://stackoverflow.com/search?q=move-legend-outside-figure
